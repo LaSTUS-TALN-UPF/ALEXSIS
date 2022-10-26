@@ -48,15 +48,14 @@ Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.<br/
 
  <br/>
  
-## Contact
 
-LaSTUS lab at TALN at UPF (Universitat Pompeu Fabra)
 
-Daniel Ferrés - daniel.ferres[at]upf.edu
 
-Horacio Saggion - horacio.saggion[at]upf.edu   (corresponding author)
 
-ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/web/conmutes)
+## Licence
+
+The ALEXSIS dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
+
 
 ## Acknowledgements
 
@@ -64,10 +63,11 @@ ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/w
 - Ministerio de Ciencia, Innovación y Universidades (MCIU) of Spain
 - Agencia Estatal de Investigación (AEI) of Spain
 
+## Contact
 
+LaSTUS lab at TALN at UPF (Universitat Pompeu Fabra)
 
-##Licence
+Daniel Ferrés - daniel.ferres[at]upf.edu
+Horacio Saggion - horacio.saggion[at]upf.edu   (corresponding author)
 
-The ALEXSIS dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
-
-
+ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/web/conmutes)
