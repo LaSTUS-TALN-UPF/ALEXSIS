@@ -22,7 +22,7 @@ The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at gith
 <br/>
 
 
-###Citation
+## Citation
 
 If you make use of the ALEXSIS dataset for Spanish, please cite the following paper:
 
@@ -48,7 +48,7 @@ Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.<br/
 
  <br/>
  
-##Contact
+## Contact
 
 LaSTUS lab at TALN at UPF (Universitat Pompeu Fabra)
 
@@ -58,7 +58,7 @@ Horacio Saggion - horacio.saggion[at]upf.edu   (corresponding author)
 
 ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/web/conmutes)
 
-##Acknowledgements
+## Acknowledgements
 
 - ConMuTeS project: Context-aware Multilingual Text Simplification (ConMuTeS) PID2019-109066GB-I00/AEI/10.13039/501100011033
 - Ministerio de Ciencia, Innovación y Universidades (MCIU) of Spain
