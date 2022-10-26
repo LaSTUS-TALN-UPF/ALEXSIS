@@ -27,10 +27,10 @@ The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at gith
 If you make use of the ALEXSIS dataset for Spanish, please cite the following paper:
 
 Daniel Ferrés and Horacio Saggion.<br/>
-ALEXSIS: A Dataset for Lexical Simplification in Spanish.[PDF](www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.383.pdf)<br/>
+ALEXSIS: A Dataset for Lexical Simplification in Spanish. [PDF](www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.383.pdf)<br/>
 Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.<br/>
 
-link to the bibtex format file [.bib](www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.383.bib)
+Llink to the bibtex format file [bib](www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.383.bib)
 
 ```console
 @inproceedings{ferres-saggion@LREC2022,
