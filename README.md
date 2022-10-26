@@ -32,7 +32,7 @@ Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.
 
 link to the bibtex format file [.bib](www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.383.bib)
 
-
+```console
 @inproceedings{ferres-saggion@LREC2022,
     title = "ALEXSIS: A Dataset for Lexical Simplification in Spanish.",
     author = "Ferrés, Daniel  and Saggion, Horacio",
@@ -44,6 +44,7 @@ link to the bibtex format file [.bib](www.lrec-conf.org/proceedings/lrec2022/bib
     pages     = {3582--3594},
     url       = {https://aclanthology.org/2022.lrec-1.383}
 }
+```
 
  <br/>
  
