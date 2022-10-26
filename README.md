@@ -6,7 +6,7 @@ ALEXSIS:  A Dataset for Benchmarking Lexical Simplification for Spanish
 The ALEXSIS Spanish Dataset for Lexical Simplification contains 381 instances. Each instance is composed by a sentence, a target complex word, and 25 candidate substitutions. The dataset format is similar to that of LexMturk (Horn et al., 2014) but in ALEXSIS the sentences are not tokenized. 
 A total of 380 instances of the 381 have only 1 appearance of the complex word in the sentence.
 There is only one instance with two appearances of the complex word in the sentence. This is the case of the instance in line 263.
-The sentence is: "Limita al norte con el paraje Árbol Solo, al sur con el paraje San Vicente, al este con la localidad de San Andrés y al oeste con el Canal San Martín." The complex is "paraje". The first appearance of the complex word paraje was the one marked in bold for the annotators.
+The sentence is: "Limita al norte con el paraje Árbol Solo, al sur con el paraje San Vicente, al este con la localidad de San Andrés y al oeste con el Canal San Martín." The complex word is "paraje". The first appearance of the complex word "paraje" was the one marked in bold for the annotators.
 
 The instances have the following format in UTF8:
 
