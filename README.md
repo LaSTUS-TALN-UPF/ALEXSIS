@@ -10,7 +10,7 @@ The sentence is: "Limita al norte con el paraje Árbol Solo, al sur con el paraj
 
 The instances have the following format in UTF8:
 
-\<SENTENCE&lt&gt><TAB><COMPLEX_WORD_IN_SENTENCE><TAB><SUBSTITUTION1><TAB>...<TAB><SUBSTITUTION25><br/>
+\<SENTENCE\>\<TAB\>\<COMPLEX_WORD_IN_SENTENCE\>\<TAB\>\<SUBSTITUTION_1\>\<TAB\>...\<TAB\>\<SUBSTITUTION_25\><br/>
 
 See below an instance of the dataset.
 
@@ -28,7 +28,7 @@ Daniel Ferrés and Horacio Saggion.
 ALEXSIS: A Dataset for Lexical Simplification in Spanish.[PDF](www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.383.pdf)
 Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.
 
-link to the bibtex format file [.bib]
+link to the bibtex format file [.bib](www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.383.bib)
 
 
 @inproceedings{ferres-saggion@LREC2022,
@@ -51,7 +51,7 @@ Daniel Ferrés - daniel.ferres[at]upf.edu
 
 Horacio Saggion - horacio.saggion[at]upf.edu   (corresponding author)
 
-ConMuTeS project Link: https://www.upf.edu/web/conmutes
+ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/web/conmutes)
 
 ##Acknowledgements
 
