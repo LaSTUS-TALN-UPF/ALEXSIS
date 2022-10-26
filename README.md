@@ -18,7 +18,7 @@ See below an instance of the dataset.
 Sufrió una importante reducción en su capacidad para poder acogerse a las normas de la FIFA para los estadios de fútbol. acogerse adaptarse sumarse incorporarse obedecer apegarse adaptarse adaptarse ampararse ampararse adaptarse apegarse aceptar asimilarse adaptarse aplicarse aceptarse incorporarse refugiarse amparar recurrir aceptar refugiarse cumplir con adaptarse admitirse
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br/>
 
-The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at github:  [https://github.com/LaSTUS-TALN-UPF/ALEXSIS](https://github.com/LaSTUS-TALN-UPF/ALEXSIS)
+The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at github:  [https://github.com/LaSTUS-TALN-UPF/ALEXSIS](https://github.com/LaSTUS-TALN-UPF/ALEXSIS) <br/>
 
 ##Citation
 
@@ -43,6 +43,8 @@ link to the bibtex format file [.bib](www.lrec-conf.org/proceedings/lrec2022/bib
     url       = {https://aclanthology.org/2022.lrec-1.383}
 }
 
+ <br/>
+ 
 ##Contact
 
 LaSTUS lab@TALN@UPF
@@ -58,3 +60,11 @@ ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/w
 ConMuTeS project: Context-aware Multilingual Text Simplification (ConMuTeS) PID2019-109066GB-I00/AEI/10.13039/501100011033
 Ministerio de Ciencia, Innovación y Universidades (MCIU) of Spain
 Agencia Estatal de Investigación (AEI) of Spain
+
+
+
+##Licence
+
+The datasets (under the /datasets directory) are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
+
+
