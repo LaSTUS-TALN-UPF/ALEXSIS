@@ -57,11 +57,7 @@ Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.<br/
 The ALEXSIS dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
 
 
-## Acknowledgements
 
-- ConMuTeS project: Context-aware Multilingual Text Simplification (ConMuTeS) PID2019-109066GB-I00/AEI/10.13039/501100011033
-- Ministerio de Ciencia, Innovación y Universidades (MCIU) of Spain
-- Agencia Estatal de Investigación (AEI) of Spain
 
 ## Contact
 
@@ -71,3 +67,10 @@ Daniel Ferrés - daniel.ferres[at]upf.edu
 Horacio Saggion - horacio.saggion[at]upf.edu   (corresponding author)
 
 ConMuTeS project Link: [https://www.upf.edu/web/conmutes](https://www.upf.edu/web/conmutes)
+
+
+## Acknowledgements
+
+- ConMuTeS project: Context-aware Multilingual Text Simplification (ConMuTeS) PID2019-109066GB-I00/AEI/10.13039/501100011033
+- Ministerio de Ciencia, Innovación y Universidades (MCIU) of Spain
+- Agencia Estatal de Investigación (AEI) of Spain
