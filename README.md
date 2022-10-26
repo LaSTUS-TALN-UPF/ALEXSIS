@@ -10,11 +10,11 @@ The sentence is: "Limita al norte con el paraje Árbol Solo, al sur con el paraj
 
 The instances have the following format in UTF8:
 
-<SENTENCE><TAB><COMPLEX_WORD_IN_SENTENCE><TAB><SUBSTITUTION1><TAB>...<TAB><SUBSTITUTION25>
+\<SENTENCE&lt&gt><TAB><COMPLEX_WORD_IN_SENTENCE><TAB><SUBSTITUTION1><TAB>...<TAB><SUBSTITUTION25><br/>
 
 See below an instance of the dataset.
 
-________________________________  SAMPLE INSTANCE __________________________
+    ________________________________  SAMPLE INSTANCE __________________________<br/>
 Sufrió una importante reducción en su capacidad para poder acogerse a las normas de la FIFA para los estadios de fútbol. acogerse adaptarse sumarse incorporarse obedecer apegarse adaptarse adaptarse ampararse ampararse adaptarse apegarse aceptar asimilarse adaptarse aplicarse aceptarse incorporarse refugiarse amparar recurrir aceptar refugiarse cumplir con adaptarse admitirse
 ____________________________________________________________________________
 
