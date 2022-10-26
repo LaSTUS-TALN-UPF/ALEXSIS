@@ -22,7 +22,7 @@ The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at gith
 <br/>
 
 
-##Citation
+###Citation
 
 If you make use of the ALEXSIS dataset for Spanish, please cite the following paper:
 
