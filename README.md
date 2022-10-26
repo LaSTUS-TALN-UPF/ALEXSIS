@@ -19,6 +19,8 @@ Sufrió una importante reducción en su capacidad para poder acogerse a las norm
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br/>
 
 The ALEXSIS Spanish Dataset for Lexical Simplification can also be found at github:  [https://github.com/LaSTUS-TALN-UPF/ALEXSIS](https://github.com/LaSTUS-TALN-UPF/ALEXSIS) <br/>
+<br/>
+
 
 ##Citation
 
@@ -65,6 +67,6 @@ Agencia Estatal de Investigación (AEI) of Spain
 
 ##Licence
 
-The datasets (under the /datasets directory) are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
+The ALEXSIS dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License CC-BY-NC-SA-4.0.
 
 
