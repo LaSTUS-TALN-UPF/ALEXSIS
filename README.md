@@ -47,34 +47,53 @@ Proceedings of the Language Resources and Evaluation Conference (LREC) 2022.<br/
 ```
 
  <br/>
- 
+
+
+The ALEXSIS dataset is also published at Zenodo:<br/> [https://doi.org/10.5281/zenodo.5837149](https://doi.org/10.5281/zenodo.5837149)
+
+
 ## Related Work
+
+### TSAR-2022 Shared Task on Lexical Simplification
+
+ALEXSIS has been used in the [TSAR-2022 Shared Task on Lexical Simplification](https://taln.upf.edu/pages/tsar2022-st/) as a dataset to evaluate Lexical Simplification systems in Spanish.
+12 instances were used in the trial-dataset and 368 instances were used in the test dataset. The instance with two appearances of the complex word was not used.
+In this evaluation the systems were evaluated with the 368 instances of the TSAR-ES test dataset.
+[https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
+
 
 ### Experiments with ALEXSIS and similar datasets for English and Portuguese (ALEXSIS-PT)
 
-A paper describing the compilation of the datasets for English, Portuguese (ALEXSIS-PT) and Spanish (ALEXSIS) that includes several experiments with 
-two state-of-the-art approaches for Lexical Simplification has been published at this link:
+A paper describing the compilation of the TSAR-2022 Shared Task datasets for English, Portuguese (ALEXSIS-PT) and Spanish (ALEXSIS) that includes several experiments with two state-of-the-art approaches for Lexical Simplification has been published at this link:
 https://www.frontiersin.org/articles/10.3389/frai.2022.991242
+In this paper the approaches (LSBert (with BETO) and TUNER) were evaluated with the 381 instances of the ALEXSIS dataset.
 
 [Lexical Simplification Benchmarks for English, Portuguese, and Spanish](https://www.frontiersin.org/articles/10.3389/frai.2022.991242).<br/>
 Sanja Štajner, Daniel Ferrés, Matthew Shardlow, Kai North, Marcos Zampieri and  Horacio Saggion.<br/>
 Front. Artif. Intell. Sec. Natural Language Processing. <br/>
 doi: 10.3389/frai.2022.991242
 
-## TSAR-2022 Shared Task on Lexical Simplification
-
-ALEXSIS has been used in the TSAR-2022 Shared Task on Lexical Simplification as a dataset to evaluate Lexical Simplification systems in Spanish.
-12 instances were used in the trial-dataset and 368 instances were used in the test dataset. The instance with two appearances of the complex word was not used.
-[https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task](https://github.com/LaSTUS-TALN-UPF/TSAR-2022-Shared-Task)
 
 
 ## References
+
+Ferrés, D., Saggion, H., and Gómez Guinovart, X. (2017b).<br/>
+An adaptable lexical simplification architecture for Major Ibero-Romance languages. <br/>
+In Proceedings of the First Workshop on Building Linguistically Generalizable
+NLP Systems (Copenhagen: Association for Computational Linguistics), 40–47.<br/>
+doi: 10.18653/v1/W17-5406
 
 Horn, C., Manduca, C., and Kauchak, D. (2014). <br/>
 Learning a Lexical Simplifier Using Wikipedia. <br/>
 In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 458–463, Baltimore, Maryland, June. Association for Computational Linguistics.
 
 LexMturk dataset: [https://cs.pomona.edu/~dkauchak/simplification/lex.mturk.14/lex.mturk.14.tar.gz](https://cs.pomona.edu/~dkauchak/simplification/lex.mturk.14/lex.mturk.14.tar.gz)
+
+
+J. Qiang, Y. Li, Y. Zhu, Y. Yuan, Y. Shi and X. Wu.<br/>
+LSBert: Lexical Simplification Based on BER.<br/>
+In IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 3064-3076, 2021<br/>
+doi: 10.1109/TASLP.2021.3111589.
 
 
 ## Licence
